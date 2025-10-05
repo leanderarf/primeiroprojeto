@@ -3,7 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 primeiroprojeto.iml
-.idea/
+qodana.yaml
 
 ### Eclipse ###
 .apt_generated
